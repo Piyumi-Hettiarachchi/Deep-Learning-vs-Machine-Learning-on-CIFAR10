@@ -126,8 +126,7 @@ Deep-Learning-vs-Machine-Learning-on-CIFAR10/
 ├── development_ML.ipynb
 ├── appendix.pdf
 ├── README.md
-├── requirements.txt
-└── screenshots/
+
 ```
 
 ---
